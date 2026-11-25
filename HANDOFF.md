@@ -3,7 +3,7 @@
 - Slug: u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047
 - Repo: https://github.com/nelsenwiliam/makefun-houseplant-out-of-office (branch main)
 - Commit lama: ff712922a221a4c5d2acd357d852bb17fef93fa5
-- Commit baru: (diisi setelah push — lihat `git log` di bawah)
+- Commit baru: 7ed4a7386b147c4ed7b22e19d3629ae4ffe30854 (terverifikasi via git ls-remote origin HEAD)
 - Hadiah: $2. Entries close 26 Nov 21:15 WIB. Cutoff ronde 2: 26 Nov 03:34 WIB.
 
 ## Baris final (105 karakter, persis)
